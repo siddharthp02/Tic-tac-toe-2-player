@@ -229,20 +229,3 @@ while True:
     else:
         print('Thank you for playing!')
         break
-                
-                
-                
-            
-            
-            
-            
-            
-        
-        
-    
-        
-        
-      
-
-
-# ## Good Job!
