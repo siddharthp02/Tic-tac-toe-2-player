@@ -1,10 +1,10 @@
 # Tic-tac-toe
 Tic-tac-toe coded in python
 
-## RULES
+## Rules
 The 3x3 grid contains position 1 at the bottom left, position 9 at the top right.
 
-## RUN
+## Run
 ```
 python Tic-tac-toe.py
 ```
